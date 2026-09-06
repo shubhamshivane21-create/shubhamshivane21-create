@@ -16,9 +16,9 @@
 
 I am a B.E. Artificial Intelligence and Data Science student at Vidyavardhini's College of Engineering and Technology. I enjoy learning through projects, exploring AI agents and automation, and improving my web-development skills.
 
-- 🌱 Learning: AI agents, APIs, responsive interfaces, and basic React/Next.js
-- 🧠 Interested in: applied AI, automation, and student-focused products
-- 🤝 Open to: college projects and beginner-friendly collaboration
+- 🌱 Learning : AI agents, APIs, responsive interfaces, and basic React/Next.js
+- 🧠 Interested in : applied AI, automation, and student-focused products
+- 🤝 Open to : college projects and beginner-friendly collaboration
 
 ## Skills and tools
 
