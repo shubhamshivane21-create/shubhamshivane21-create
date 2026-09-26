@@ -58,4 +58,3 @@ A responsive web calculator for percentage-to-CGPA conversion, subject-wise mark
 </p>
 
 <p align="center">Thanks for visiting my profile.</p>
-
